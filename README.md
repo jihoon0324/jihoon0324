@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills
+
+Platforms & Languages
+
+
+
+
+<img src="https://img.shields.io/badge/java-FC4C02?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=javaScript&logoColor=white"/>
+
+
+
+Tools
+
