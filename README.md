@@ -20,7 +20,7 @@ Skills
 Platforms & Languages
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jihoon0324&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon0324&count_private=true)
 
 <img src="https://img.shields.io/badge/java-FC4C02?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=javaScript&logoColor=white"/>
 
