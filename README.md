@@ -20,7 +20,7 @@ Skills
 Platforms & Languages
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jihoon0324&show_icons=true)
 
 <img src="https://img.shields.io/badge/java-FC4C02?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=javaScript&logoColor=white"/>
 
