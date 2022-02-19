@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-<p>
-  
-  
-  <a href="https://jihoon0324.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jihoon-oh-30585a204/" target="_blank"><img src="https://img.shields.io/badge/JihoonOh-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-    <a href="mailto:jihoon820324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jihoon820324@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
-    
- </p> 
-
-
 
 <!--
 **jihoon0324/jihoon0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A beginner developer who tries hard
+
+
+<p>
+  
+  
+  <a href="https://jihoon0324.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jihoon-oh-30585a204/" target="_blank"><img src="https://img.shields.io/badge/JihoonOh-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+    <a href="mailto:jihoon820324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jihoon820324@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+    
+ </p> 
+
+
+
+
 
 ### 💪 Skills
 
@@ -37,7 +42,9 @@ Here are some ideas to get you started:
 
 Tools
 <p>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-007ACC?style=for-the-badge&logo=Eclipse%2IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> <img src="https://img.shields.io/badge/NetBeans%20IDE-3EAAAF?style=for-the-badge&logo=NetBeans%20IDE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Eclipse%20IDE-007ACC?style=square&logo=Eclipse%2IDE&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=squaree&logo=Visual%20Studio%20Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NetBeans%20IDE-3EAAAF?style=square&logo=NetBeans%20IDE&logoColor=white"/> 
 
 </p>
 
