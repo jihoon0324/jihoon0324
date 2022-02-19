@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 </p>
 
 
-Tools
-<p>
+#### Tools
+<p> 
 <img src="https://img.shields.io/badge/Eclipse%20IDE-007ACC?style=square&logo=Eclipse%2IDE&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=squaree&logo=Visual%20Studio%20Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/NetBeans%20IDE-3EAAAF?style=square&logo=NetBeans%20IDE&logoColor=white"/> 
