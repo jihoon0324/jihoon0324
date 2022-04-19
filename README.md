@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
   <a href="https://jihoon0324.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jihoon-oh-30585a204/" target="_blank"><img src="https://img.shields.io/badge/JihoonOh-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
-    <a href="mailto:jihoon820324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jihoon820324@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
+    <a href="mailto:jihoon0324@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/jihoon0324@hotmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
     
  </p> 
 
