@@ -21,8 +21,8 @@
 Here are some ideas to get you started:  
 
 
-- 🌱 I’m currently stduying React  
-- 👯 I’m looking for job ...  
+- 🌱 I’m currently stduying React...    
+- 👯 I’m looking for job ...    
 
 
 
