@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse%20IDE-007ACC?style=square&logo=Eclipse%2IDE&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=squaree&logo=Visual%20Studio%20Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/NetBeans%20IDE-3EAAAF?style=square&logo=NetBeans%20IDE&logoColor=white"/> 
-
+  <img src="https://img.shields.io/badge/IntelliJ%20IDE-E2001A?style=square&logo=IntelliJ%20IDE&logoColor=000000"/> 
 </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoon0324&count_bg=%2317A797&title_bg=%2325263A&icon=openid.svg&icon_color=%23C41010&title=hits&edge_flat=false)
