@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=javaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-3766AB?style=flat-square&logo=Bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-green?style=flat-square&logo=CSS3&logoColor=1572B6"/> 
 </p>
 
 
