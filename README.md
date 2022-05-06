@@ -21,7 +21,7 @@
 Here are some ideas to get you started:  
 
 
-- 🌱 I’m currently stduying React...    
+- 🌱 I’m currently stduying React ,Python...    
 - 👯 I’m looking for job ...    
 
 
@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=javaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-3766AB?style=flat-square&logo=Bootstrap&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-green?style=flat-square&logo=CSS3&logoColor=1572B6"/> 
+ <img src="https://img.shields.io/badge/CSS-green?style=flat-square&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Python-792EE5?style=flat-square&logo=Python&logoColor=2B2728"/>  
+  
 </p>
 
 
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2255?style=squaree&logo=Visual%20Studio%20Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/NetBeans%20IDE-3EAAAF?style=square&logo=NetBeans%20IDE&logoColor=white"/> 
   <img src="https://img.shields.io/badge/IntelliJ%20IDE-E2001A?style=square&logo=IntelliJ%20IDE&logoColor=000000"/> 
+   
 </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoon0324&count_bg=%2317A797&title_bg=%2325263A&icon=openid.svg&icon_color=%23C41010&title=hits&edge_flat=false)
